@@ -293,3 +293,19 @@ button:hover,
 .button.button-wordpress:hover,
 .button.button-wordpress:focus {
   filter: brightness(90%) }
+
+/* Google Meet */
+.button.button-google-meet {
+  color: #FFFFFF;
+  background-color: #2867b2 }
+.button.button-google-meet:hover,
+.button.button-google-meet:focus {
+  filter: brightness(90%) }
+
+/* MS Form */
+.button.button-ms-form {
+  color: #FFFFFF;
+  background-color: #046c70 }
+.button.button-ms-form:hover,
+.button.button-ms-form:focus {
+  filter: brightness(90%) }
